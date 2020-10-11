@@ -1,0 +1,5 @@
+.vs
+*.sln
+*.vcxproj*
+3DProjection/x64
+x64
